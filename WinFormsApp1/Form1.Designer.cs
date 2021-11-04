@@ -86,7 +86,7 @@ namespace WinFormsApp1
             this.Pow.Name = "Pow";
             this.Pow.Size = new System.Drawing.Size(67, 60);
             this.Pow.TabIndex = 58;
-            this.Pow.Text = "Pow 2";
+            this.Pow.Text = "Pow ";
             this.Pow.UseVisualStyleBackColor = false;
             this.Pow.Click += new System.EventHandler(this.Pow_Click);
             // 
@@ -99,7 +99,7 @@ namespace WinFormsApp1
             this.Sqrt.Name = "Sqrt";
             this.Sqrt.Size = new System.Drawing.Size(67, 60);
             this.Sqrt.TabIndex = 57;
-            this.Sqrt.Text = "Sqrt";
+            this.Sqrt.Text = "Sqrt 2";
             this.Sqrt.UseVisualStyleBackColor = false;
             this.Sqrt.Click += new System.EventHandler(this.Sqrt_Click);
             // 
