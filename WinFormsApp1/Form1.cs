@@ -219,6 +219,8 @@ namespace WinFormsApp1
             this.input = string.Empty;
             this.operator1 = string.Empty;
             this.operator2 = string.Empty;
+           
+
 
 
         }
