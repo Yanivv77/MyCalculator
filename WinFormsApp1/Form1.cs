@@ -145,7 +145,7 @@ namespace WinFormsApp1
 
         private void Clear_Click(object sender, EventArgs e)
         {
-            this.Output.Text = "";
+            this.Output.Text = "0";
             this.input = string.Empty;
             this.operator1 = string.Empty;
             this.operator2 = string.Empty;
